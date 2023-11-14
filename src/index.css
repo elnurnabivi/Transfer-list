@@ -1,0 +1,23 @@
+.components {
+  height: 100vh;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.list {
+  height: 200px;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 10px;
+  flex-direction: column;
+}
+
+.actions {
+  flex-direction: column;
+  padding: 20px;
+  gap: 20px;
+}
