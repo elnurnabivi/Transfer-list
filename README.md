@@ -1,4 +1,4 @@
-# META REACT INTERVIEW QUESTION
+# TRANSFER LIST
 
 The task is to build a transfer list component.
 
